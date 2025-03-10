@@ -1,2 +1,2 @@
-# game-depoly-test
+# game-deploy-test
 Test Test
